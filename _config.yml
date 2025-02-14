@@ -1,7 +1,7 @@
 name: "Omar Lab"
 description: "This is the official web page for the Omar Lab at Cedars-Sinai Medical Center"
 
-url: "http://omarlab.com"
+url: "http://TheOmarLab.com"
 
 paginate: 5
 plugins: [jekyll-paginate]
