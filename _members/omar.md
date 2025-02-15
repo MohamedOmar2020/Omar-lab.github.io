@@ -8,7 +8,7 @@ position: Principal Investigator
 email: Mohamed.Omar (at) cshs.org
 scholar: iHJ6TzcAAAAJ
 website:
-Cedars-Sinai: Mohamed.Omar
+Cedars_Sinai: Mohamed.Omar
 twitter: MohamedOmarMD
 linkedin: mohamed-omar-md
 bsky: "fraserlab.bsky.social"
