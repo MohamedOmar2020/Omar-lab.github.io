@@ -23,21 +23,11 @@ group: contact
   <h4>Mohamed Omar, MD</h4>
   Assistant Professor<br>
   [Department of Computational Biomedicine](https://www.cedars-sinai.edu/health-sciences-university/research/departments-institutes/computational-biomedicine.html)<br>
-  [Cedars-Sinai Medical Center (QB3)](https://qb3.org)<br>
+  [Cedars-Sinai Medical Center](https://www.cedars-sinai.org/home.html)<br>
   700 N. San Vicente Blvd., Suite G-540F<br>
   West Hollywood, CA 90069<br>
   email: Mohamed.Omar (at) cshs.org<br>
   tel: 424‐315‐1312
-
-</div>
-
-#<div class="col-md-4">
-
-#  <h4> Rebecca Niznak</h4>
-#  Executive Business Adminstrator for James Fraser and<br>
-#  [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu)<br>
-#  email: rebecca.niznak2 (at) ucsf.edu<br>
-#  tel: <br>
 
 </div>
 
