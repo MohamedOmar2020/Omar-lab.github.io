@@ -18,4 +18,4 @@ Research in the lab is focused on discovering the fundamental principles of macr
 We are located in The Green Building of the Pacific Design Center.
 {: .welcomefont}
 
-![PDC](static/img/logo/PDC1.png){:style="max-width: 100%; height: auto;"}
+![PDC](static/img/logo/PDC1.jpg){:style="max-width: 100%; height: auto;"}
