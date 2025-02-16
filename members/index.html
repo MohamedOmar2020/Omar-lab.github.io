@@ -154,15 +154,15 @@ The Omar lab welcomes people of any race, ethnicity, religion, national origin, 
 {% for member in people %}
 {% assign tenures = member.startdate.size | minus: 1 %}
 	{% for tenure in (0..tenures) %}
-		{% assign startyear = member.startdate[tenure] | date: "%Y" | minus: yearoffset % | times: 1.0 %}
+		{% assign startyear = member.startdate[tenure] | date: "%Y" | minus: yearoffset %}
 		{% assign startmonth = member.startdate[tenure] | date: "%m" | minus: 1 | divided_by: 12.0 %}
 		{% assign start = startyear | plus: startmonth %}
 		{% if member.enddate[tenure] %}
-			{% assign endyear = member.enddate[tenure] | date: "%Y" | minus: yearoffset % | times: 1.0 %}
+			{% assign endyear = member.enddate[tenure] | date: "%Y" | minus: yearoffset %}
 			{% assign endmonth = member.enddate[tenure] | date: "%m" | minus: 1 | divided_by: 12.0 %}
 			{% assign end = endyear | plus: endmonth %}
 		{% else %}
-			{% assign endyear = "now" | date: "%Y" | minus: yearoffset % | times: 1.0 %}
+			{% assign endyear = "now" | date: "%Y" | minus: yearoffset %}
 			{% assign endmonth = "now" | date: "%m" | minus: 1 | divided_by: 12.0 %}
 			{% assign end = endyear | plus: endmonth %}
 		{% endif %}
@@ -206,7 +206,7 @@ The Omar lab welcomes people of any race, ethnicity, religion, national origin, 
 {% endfor %}
 
 {% assign legendn = 7 %}
-{% assign fontsize = 14 %}
+{% assign fontsize = 8 %}
 {% assign xposition = 10 %}
 {% assign yposition = i | times: yspacing %}
 {% assign yposition = legendn | plus: 0.5 | times: legendboxspacing | times: -1 | plus: yposition %}
