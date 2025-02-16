@@ -16,11 +16,8 @@ twitter: #Pooja_Seh
 linkedin: rishabhsharm
 github: shar032
 orcid: #0000-0002-3417-9198
-description: "Rishabh received his Ph.D. from the University of Oulu in Finland. Her thesis  focused on the structural characterization of mycobacterial membrane proteins using X-ray crystallography and small angle X-ray scattering (SAXS).
+description: "Rishabh Recieved his Bachelor of Science in Chemical Engineering from the University of Southern California in 2020. Subsequently, he received his Masters degree in Data Science from the University of Rochester. His prior work has focused on developing AI-driven platforms for spatial biology applications and language models for description-to-molecule generation tasks.
 
 
-In the Omar lab, Rishabh will utilize both X-ray crystallography and cryo-EM to study the drug complexes of tubulin and understand the molecular mechanism of resistance of anti-parasitic drugs.
-
-
-Outside of lab, Rishabh enjoys long walks and board games."
+In the Omar lab, Rishabh is working on developing robust models for inferring high resolution spatial and molecular features from routine hematoxylin and eosin (H&E)-stained whole slide images (WSI)."
 ---

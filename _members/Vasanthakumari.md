@@ -16,11 +16,10 @@ twitter: #Pooja_Seh
 linkedin: #pooja-asthana-0602786b
 github: priyanka9991
 orcid: #0000-0002-3417-9198
-description: "Priyanka received her Ph.D. from the University of Oulu in Finland. Her thesis  focused on the structural characterization of mycobacterial membrane proteins using X-ray crystallography and small angle X-ray scattering (SAXS).
+description: "Priyanka received her Ph.D. in Biomedical Engineering from Texas A&M University in 2022. Her thesis focused on deep learning-based detection of oral and skin cancer using multi-spectral
+Autofluorescence Lifetime Imaging (maFLIM). Subsequently, she joined Argonne National Laboratory as Postdoctoral Fellow, where she focused on developing machine learning models for predicting
+anti-cancer drug responses. 
 
 
-In the Omar lab, Priyanka will utilize both X-ray crystallography and cryo-EM to study the drug complexes of tubulin and understand the molecular mechanism of resistance of anti-parasitic drugs.
-
-
-Outside of lab, Priyanka enjoys long walks and board games."
+In the Omar lab, Priyanka is working on developing multimodal risk assessment tools for patients with prostate cancer using multiparametric MRI imaging (mpMRI) and digitized histopathology slides of biopsy specimens."
 ---
