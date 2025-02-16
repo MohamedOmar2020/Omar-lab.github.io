@@ -126,17 +126,17 @@ The Omar lab welcomes people of any race, ethnicity, religion, national origin, 
 <hr>
 
 <div>
-{% assign stretch = 80 %}
+{% assign stretch = 120 %}
 {% assign yheight = 16 %}
-{% assign yspacing = 25 %}
-{% assign fontsize = 10 %}
+{% assign yspacing = 30 %}
+{% assign fontsize = 8 %}
 {% assign yearoffset = 2024 %}
 {% assign majortick = 0.05 %}
 {% assign minortick = 0.025 %}
 {% assign legendboxsize = 20 %}
 {% assign legendboxspacing = 24 %}
 {% assign people = site.members | concat: site.alumni | sort: "startdate" %}
-{% assign finalyear = "now" | date: "%Y" | plus: 1 %}
+{% assign finalyear = "now" | date: "%Y" | plus: 3 %}
 <?xml version="1.0" encoding="UTF-8" ?>
 <svg width="100%" height="auto" viewBox="0 0 {{ finalyear | minus: yearoffset | plus: majortick | times: stretch }} {{ people.size | plus: 1 | times: yspacing | plus: 5 }}" xmlns="http://www.w3.org/2000/svg">
 {% assign i = 0 %}
@@ -154,15 +154,15 @@ The Omar lab welcomes people of any race, ethnicity, religion, national origin, 
 {% for member in people %}
 {% assign tenures = member.startdate.size | minus: 1 %}
 	{% for tenure in (0..tenures) %}
-		{% assign startyear = member.startdate[tenure] | date: "%Y" | minus: yearoffset %}
+		{% assign startyear = member.startdate[tenure] | date: "%Y" | minus: yearoffset % | times: 1.0 %}
 		{% assign startmonth = member.startdate[tenure] | date: "%m" | minus: 1 | divided_by: 12.0 %}
 		{% assign start = startyear | plus: startmonth %}
 		{% if member.enddate[tenure] %}
-			{% assign endyear = member.enddate[tenure] | date: "%Y" | minus: yearoffset %}
+			{% assign endyear = member.enddate[tenure] | date: "%Y" | minus: yearoffset % | times: 1.0 %}
 			{% assign endmonth = member.enddate[tenure] | date: "%m" | minus: 1 | divided_by: 12.0 %}
 			{% assign end = endyear | plus: endmonth %}
 		{% else %}
-			{% assign endyear = "now" | date: "%Y" | minus: yearoffset %}
+			{% assign endyear = "now" | date: "%Y" | minus: yearoffset % | times: 1.0 %}
 			{% assign endmonth = "now" | date: "%m" | minus: 1 | divided_by: 12.0 %}
 			{% assign end = endyear | plus: endmonth %}
 		{% endif %}
