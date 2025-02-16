@@ -9,7 +9,7 @@ group: members
 The Omar lab welcomes people of any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status.<br>
 <h5>See our<a href="/philosophy/"> lab compact and philosophy</a>.</h5>
 
-{% for member in site._members %}
+{% for member in site.members %}
 
 {% unless member.enddate == empty or member.startdate.size != member.enddate.size %}
 {% continue %}
