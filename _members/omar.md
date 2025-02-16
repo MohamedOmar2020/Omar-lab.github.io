@@ -22,5 +22,5 @@ description: "Mohamed recieved his MD degree from the School of Medicine at Mans
 In 2022, Mohamed became Assistant Professor of Research in [Pathology and Laboratory Medicine](https://pathology.weill.cornell.edu/), where he worked on developing computational approaches for cancer phenotype prediction using histopathology and multi-omics data.
 
 
-He moved to Los Angeles, California in 2025 to start his independent research lab in the [Department of Computational Biomedicine](https://www.cedars-sinai.edu/health-sciences-university/research/departments-institutes/computational-biomedicine.html) at [Cedars-Sinai](https://www.cedars-sinai.org/home.html)."
+He moved to Los Angeles, California in November 2024 to start his independent research lab in the [Department of Computational Biomedicine](https://www.cedars-sinai.edu/health-sciences-university/research/departments-institutes/computational-biomedicine.html) at [Cedars-Sinai](https://www.cedars-sinai.org/home.html)."
 ---
