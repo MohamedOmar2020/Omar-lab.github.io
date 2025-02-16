@@ -13,13 +13,13 @@ website:
 UCSF:  #UCSF Profile ID - Employees only
 twitter: #Pooja_Seh
 linkedin: #pooja-asthana-0602786b
-github:
+github: priyanka9991
 orcid: #0000-0002-3417-9198
-description: #"Pooja received her Ph.D. from the University of Oulu in Finland. Her thesis  focused on the structural characterization of mycobacterial membrane proteins using X-ray crystallography and small angle X-ray scattering (SAXS).
+description: "Priyanka received her Ph.D. from the University of Oulu in Finland. Her thesis  focused on the structural characterization of mycobacterial membrane proteins using X-ray crystallography and small angle X-ray scattering (SAXS).
 
 
-In the Omar lab, Pooja will utilize both X-ray crystallography and cryo-EM to study the drug complexes of tubulin and understand the molecular mechanism of resistance of anti-parasitic drugs.
+In the Omar lab, Priyanka will utilize both X-ray crystallography and cryo-EM to study the drug complexes of tubulin and understand the molecular mechanism of resistance of anti-parasitic drugs.
 
 
-Outside of lab, Pooja enjoys long walks and board games."
+Outside of lab, Priyanka enjoys long walks and board games."
 ---

@@ -12,10 +12,10 @@ scholar:  #Google Scholar User ID
 website:
 UCSF:  #UCSF Profile ID - Employees only
 twitter: #Pooja_Seh
-linkedin: #pooja-asthana-0602786b
-github:
+linkedin: rishabhsharm
+github: shar032
 orcid: #0000-0002-3417-9198
-description: #"Rishabh received his Ph.D. from the University of Oulu in Finland. Her thesis  focused on the structural characterization of mycobacterial membrane proteins using X-ray crystallography and small angle X-ray scattering (SAXS).
+description: "Rishabh received his Ph.D. from the University of Oulu in Finland. Her thesis  focused on the structural characterization of mycobacterial membrane proteins using X-ray crystallography and small angle X-ray scattering (SAXS).
 
 
 In the Omar lab, Rishabh will utilize both X-ray crystallography and cryo-EM to study the drug complexes of tubulin and understand the molecular mechanism of resistance of anti-parasitic drugs.
