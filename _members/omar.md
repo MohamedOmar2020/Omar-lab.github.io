@@ -7,7 +7,6 @@ image: /static/img/members/omar.jpg
 position: Principal Investigator
 priority: 1
 #current:
-pronouns: he/him/his
 email: Mohamed.Omar (at) cshs.org
 scholar: iHJ6TzcAAAAJ
 website:

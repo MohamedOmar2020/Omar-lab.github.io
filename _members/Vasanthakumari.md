@@ -7,7 +7,6 @@ altimage: #/static/img/members/asthana_pb.jpg #365 x 365 pixels, 72 dpi
 position: Research Data Scientist
 priority: 2
 #subsequent:  update once you become an alumnus
-pronouns: she/her/hers #personal pronouns
 email: Priyanka.Vasanthakumari (at) cshs.org #Preferred public email address
 scholar:  #Google Scholar User ID
 website:

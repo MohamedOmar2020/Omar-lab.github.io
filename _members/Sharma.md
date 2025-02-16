@@ -7,7 +7,6 @@ altimage: #/static/img/members/asthana_pb.jpg #365 x 365 pixels, 72 dpi
 position: Research Associate Data Scientist
 priority: 3
 #subsequent:  update once you become an alumnus
-pronouns: he/him/his #personal pronouns
 email: Rishabh.Sharma (at) cshs.org #Preferred public email address
 scholar:  #Google Scholar User ID
 website:
