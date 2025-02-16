@@ -1,6 +1,6 @@
 ---
 name: Mohamed Omar, M.D
-startdate: [2024-11-04]
+startdate: [2020-03-01]
 enddate: []
 image: /static/img/members/omar.jpg
 # altimage: /static/img/members/Fraser_pb.jpg
