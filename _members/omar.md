@@ -2,7 +2,7 @@
 name: Mohamed Omar, M.D
 startdate: [2025-11-04]
 enddate: []
-image: /static/img/members/Omar.jpg
+image: /static/img/members/omar.jpg
 # altimage: /static/img/members/Fraser_pb.jpg
 position: Principal Investigator
 #current:
