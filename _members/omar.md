@@ -5,6 +5,7 @@ enddate: []
 image: /static/img/members/omar.jpg
 # altimage: /static/img/members/Fraser_pb.jpg
 position: Principal Investigator
+priority: 1
 #current:
 pronouns: he/him/his
 email: Mohamed.Omar (at) cshs.org
