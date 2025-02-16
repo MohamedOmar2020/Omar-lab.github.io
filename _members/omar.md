@@ -13,7 +13,7 @@ website:
 Cedars_Sinai: Mohamed.Omar
 twitter: MohamedOmarMD
 linkedin: mohamed-omar-md
-bsky: "fraserlab.bsky.social"
+bsky: "mohamedomarmd.bsky.social"
 github: TheOmarLab
 orcid: 0000-0002-8068-1920
 description: "Mohamed graduated from the School of Medicine at Mansoura University, Egypt. He recieved postdoctoral training in Computational Genomics at [Johns Hopkins University School of Medicine](https://www.hopkinsmedicine.org/) and in Computational Pathology from [Weill Medical College of Cornell University (Weill Cornell Medicine)](https://weill.cornell.edu/) in the Lab of [Dr. Luigi Marchionni](https://vivo.weill.cornell.edu/display/cwid-lum4003).
