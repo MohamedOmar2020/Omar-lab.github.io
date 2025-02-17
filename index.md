@@ -12,7 +12,7 @@ We are part of the [Department of Computational Biomedicine](https://www.cedars-
 
 ![Cedars-Sinai](static/img/logo/Cedars1.png){:style="max-width: 100%; height: auto;"}
 
-Research in the lab is focused on developing robust AI-powered predictive and prognostic tools for cancer patients informed by the tumor microenvironment composition.
+Research in the lab is focused on developing robust AI-powered predictive and prognostic tools for cancer patients informed by the tumor microenvironment composition. Our ultimate goal is to develop powerful tools that can guide management decisions based on each patient's unique tumor biology and risk profile.
 {: .welcomefont}
 
 We are located in The Green Building of the Pacific Design Center.
