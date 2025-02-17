@@ -21,11 +21,13 @@ We focus on developing robust artificial intelligence (AI)-powered multimodal ri
 <div class="col-md-7 order-md-1">
 
 We are interested in uncovering pathomic signatures from routine H&E-stained whole slide images (WSIs) to inform patients' prognostication and the prediction of molecular and clinical phenotypes (see [Omar et al. Ann Rev of Cancer Bio. 2024](https://www.annualreviews.org/content/journals/10.1146/annurev-cancerbio-062822-010523)). 
+
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
-<img class="img-fluid" src="/static/img/pub/digitalpath.gif" alt="qFit">
+<img class="img-fluid" src="/static/img/pub/digitalpath.gif" alt="digitalPath">
 <!-- <a href="http://www.ucsf.edu"><img class="inline-block navb-icon" src="/static/img/ucsf_logo_white.svg" alt="University of California, San Francisco (UCSF) logo"></a> -->
 
+</div>
 </div>
 <div class="row">
 
@@ -33,13 +35,16 @@ Our work in this domain leverages deep learning algorithms to automate WSIs prep
 
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
-<img class="img-fluid" src="/static/img/pub/erg.jpeg" alt="qFit">
+<img class="img-fluid" src="/static/img/pub/erg.jpeg" alt="ERGmodel">
 <!-- <a href="http://www.ucsf.edu"><img class="inline-block navb-icon" src="/static/img/ucsf_logo_white.svg" alt="University of California, San Francisco (UCSF) logo"></a> -->
 
+</div>
 </div>
 <div class="row">
 
 ### Identifying digital pathology signatures of high-risk cancer phenotypes
+
+<div class="col-md-7 order-md-1">
 
 Our lab focuses on developing stage-specific tissue modules that comprehensively capture the complex composition and interplay within the TME at early stages preceding progression. These modules comprise cellular composition, expression profiles, intercellular interactions, gene regulatory networks, and spatial neighborhoods. This approach provides an in-depth, systemic understanding of the TME, highlighting the diversity of cell types and the extensive network of molecular and spatial interactions that dictate cellular function and the trajectory of progression. 
 We employ high-resolution spatial omics to generate single cell-resolution data that recapitulates the spatial distribution and abundance of mRNAs and specific proteins within the tissue context. We leverage this data to construct detailed maps of cellular composition, molecular expression and spatial localization, facilitating a nuanced analysis of how these factors interact within the physical confines of the TME as the tumor progresses. 
@@ -49,6 +54,7 @@ We employ high-resolution spatial omics to generate single cell-resolution data 
 <img class="img-fluid" src="/static/img/pub/digitalpath.gif" alt="qFit">
 <!-- <a href="http://www.ucsf.edu"><img class="inline-block navb-icon" src="/static/img/ucsf_logo_white.svg" alt="University of California, San Francisco (UCSF) logo"></a> -->
 
+</div>
 </div>
 <div class="row">
 
@@ -61,7 +67,7 @@ Omics offer a deep dive into the molecular underpinnings of tumor progression, w
 
 </div>
 <div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/pub/MultimodalRiskAssessment.png" alt="ptp1b">
+<img class="img-fluid" src="/static/img/pub/MultimodalRiskAssessment.png" alt="multimodal">
 </div>
 </div>
 <div class="row">
