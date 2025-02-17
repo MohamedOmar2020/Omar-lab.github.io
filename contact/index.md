@@ -11,7 +11,7 @@ group: contact
 
 <div class="col-md-6">
 
-  <h4>Lab Area </h4>
+  <h4>Department</h4>
   [Department of Computational Biomedicine](https://www.cedars-sinai.edu/health-sciences-university/research/departments-institutes/computational-biomedicine.html)<br>
   700 N. San Vicente Blvd., Suite G-540<br>
   West Hollywood, CA 90069<br>
