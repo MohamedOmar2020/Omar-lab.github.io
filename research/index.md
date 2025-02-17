@@ -58,7 +58,7 @@ Omics offer a deep dive into the molecular underpinnings of tumor progression, w
 
 </div>
 <div class="col-md-6 order-md-2 align-self-center">
-<img class="img-fluid w-100" style="width: 100%; height: auto; display: block;" src="/static/img/pub/MultimodalRiskAssessment.png" alt="multimodal">
+<img class="img-fluid w-100" style="max-width: 700px; height: auto;" src="/static/img/pub/MultimodalRiskAssessment.png" alt="multimodal">
 </div>
 </div>
 <div class="row">
