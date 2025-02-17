@@ -12,7 +12,7 @@ We are part of the [Department of Computational Biomedicine](https://www.cedars-
 
 ![Cedars-Sinai](static/img/logo/Cedars1.png){:style="max-width: 100%; height: auto;"}
 
-Research in the lab is focused on discovering the fundamental principles of macromolecular structure and dynamics.  We are interested in defining conformational states that are essential for function and understanding how conformational transitions couple to biological mechanisms.
+Research in the lab is focused on developing robust AI-powered predictive and prognostic tools for cancer patients informed by the tumor microenvironment composition.
 {: .welcomefont}
 
 We are located in The Green Building of the Pacific Design Center.
