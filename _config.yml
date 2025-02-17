@@ -45,3 +45,6 @@ collections:
                 output: true
         tags:
                 output: true
+        funding:
+                output: true
+
