@@ -15,7 +15,7 @@ We are part of the [Department of Computational Biomedicine](https://www.cedars-
 Research in the lab is focused on developing robust AI-powered predictive and prognostic tools for cancer patients informed by the tumor microenvironment composition. Our ultimate goal is to develop powerful tools that can guide management decisions based on each patient's unique tumor biology and risk profile.
 {: .welcomefont}
 
-We are located in The Green Building of the Pacific Design Center.
+We are located in the Green (Dry lab) and Blue (Wet lab) Building of the Pacific Design Center.
 {: .welcomefont}
 
 ![PDC](static/img/logo/PDC1.jpg){:style="max-width: 100%; height: auto;"}
