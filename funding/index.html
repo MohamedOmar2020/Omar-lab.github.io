@@ -7,11 +7,11 @@ group: funding
 <h1>Research Support</h1>
 <div class="container-fluid">
 
-{% assign sorted = site.funding | sort: "duration" | reverse %}
+{% assign sorted = site.funding | sort: "start_date" | reverse %}
 {% for funding in sorted %}
 
 <hr>
-<div class="row" style="padding-top: 10px; margin-top: -10px;">
+<div class="row">
     <div class="col-md-12">
         <strong>{{ funding.grant_id }} (PI: Omar)</strong>
     </div>
