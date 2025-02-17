@@ -1,4 +1,4 @@
-## Fraser Lab Alumni
+## Omar Lab Alumni
 {% assign sorted = site.members | sort: "enddate" | reverse %}
 {% for member in sorted %}
 
@@ -113,7 +113,7 @@ Subsequently: {{undergraduate.subsequent}}<br>
 
 
 <br>
-## [High School Interns](http://sep.ucsf.edu/hs_programs/high-school-intern-program/)
+## High Schoo Interns
 {% for student in sorted %}
 
 {% assign position = student.position | downcase %}
@@ -145,7 +145,7 @@ Subsequently: {{student.subsequent}}<br>
 
 
 <br>
-## Fraser Lab Visitors
+## Omar Lab Visitors
 {% for visitor in sorted %}
 
 {% assign position = visitor.position | downcase %}
