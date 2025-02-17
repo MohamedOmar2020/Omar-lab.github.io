@@ -49,19 +49,20 @@ We employ high-resolution spatial omics to generate single cell-resolution data 
 </div>
 <div class="row">
 
-### Developing multimodal risk stratification tools for cancer patients to assist with clinical decision making
-
-<div class="col-md-7 order-md-1">
-
-Our lab develops multimodal risk stratification tools that integrate diverse patient-centered data types, including omics, pathomics, and radiomics to enhance risk assessment and inform patients’ management. 
-Omics offer a deep dive into the molecular underpinnings of tumor progression, while pathomics provide a spatial microscopic view of TME dynamics by translating pathology images into quantifiable data. Radiomics further enrich this by extracting non-invasive macroscopic features from medical imaging that can be correlated with underlying disease mechanisms and outcomes. The fusion of these data modalities promises to unveil intricate indicators of high-risk disease at very early stages, which cannot be discerned using unimodal approaches. 
-
+<div class="row d-flex align-items-center">
+    <div class="col-md-7">
+        <h3>Developing multimodal risk stratification tools for cancer patients to assist with clinical decision making</h3>
+        <p>
+            Our lab develops multimodal risk stratification tools that integrate diverse patient-centered data types, including omics, pathomics, and radiomics to enhance risk assessment and inform patients’ management.
+            Omics offer a deep dive into the molecular underpinnings of tumor progression, while pathomics provide a spatial microscopic view of TME dynamics by translating pathology images into quantifiable data.
+            Radiomics further enrich this by extracting non-invasive macroscopic features from medical imaging that can be correlated with underlying disease mechanisms and outcomes.
+            The fusion of these data modalities promises to unveil intricate indicators of high-risk disease at very early stages, which cannot be discerned using unimodal approaches.
+        </p>
+    </div>
+    <div class="col-md-5 text-center">
+        <img class="img-fluid" style="max-width: 100%; height: auto; object-fit: cover;" src="/static/img/pub/MultimodalRiskAssessment.png" alt="multimodal">
+    </div>
 </div>
-<div class="col-md-6 order-md-2 align-self-center">
-<img class="img-fluid w-100" style="max-width: 700px; height: auto;" src="/static/img/pub/MultimodalRiskAssessment.png" alt="multimodal">
-</div>
-</div>
-<div class="row">
 
 
 
