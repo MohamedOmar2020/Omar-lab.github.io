@@ -57,8 +57,8 @@ Our lab develops multimodal risk stratification tools that integrate diverse pat
 Omics offer a deep dive into the molecular underpinnings of tumor progression, while pathomics provide a spatial microscopic view of TME dynamics by translating pathology images into quantifiable data. Radiomics further enrich this by extracting non-invasive macroscopic features from medical imaging that can be correlated with underlying disease mechanisms and outcomes. The fusion of these data modalities promises to unveil intricate indicators of high-risk disease at very early stages, which cannot be discerned using unimodal approaches. 
 
 </div>
-<div class="col-md-3 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/pub/MultimodalRiskAssessment.png" alt="multimodal">
+<div class="col-md-5 order-md-2 align-self-center">
+<img class="img-fluid w-100" style="max-width: 600px;" src="/static/img/pub/MultimodalRiskAssessment.png" alt="multimodal">
 </div>
 </div>
 <div class="row">
