@@ -27,7 +27,6 @@ We are interested in uncovering pathomic signatures from routine H&E-stained who
 <!-- <a href="http://www.ucsf.edu"><img class="inline-block navb-icon" src="/static/img/ucsf_logo_white.svg" alt="University of California, San Francisco (UCSF) logo"></a> -->
 
 </div>
-</div>
 <div class="row">
 
 Our work in this domain leverages deep learning algorithms to automate WSIs preprocessing and feature extraction to identify morphometric features associated with certain phenotypes. For instance, we recently developed a robust model for inferring the status of TMPRSS2:ERG fusion (a key molecular alteration in prostate cancer) from the tissue morphology depicted in routine H&E-stained images of radical prostatecomy specimens (see [Omar et al. Mol Cancer Res 2024](https://aacrjournals.org/mcr/article/22/4/347/741845/Semi-Supervised-Attention-Based-Deep-Learning-for)).
@@ -37,7 +36,6 @@ Our work in this domain leverages deep learning algorithms to automate WSIs prep
 <img class="img-fluid" src="/static/img/pub/erg.jpeg" alt="qFit">
 <!-- <a href="http://www.ucsf.edu"><img class="inline-block navb-icon" src="/static/img/ucsf_logo_white.svg" alt="University of California, San Francisco (UCSF) logo"></a> -->
 
-</div>
 </div>
 <div class="row">
 
@@ -51,7 +49,6 @@ We employ high-resolution spatial omics to generate single cell-resolution data 
 <img class="img-fluid" src="/static/img/pub/digitalpath.gif" alt="qFit">
 <!-- <a href="http://www.ucsf.edu"><img class="inline-block navb-icon" src="/static/img/ucsf_logo_white.svg" alt="University of California, San Francisco (UCSF) logo"></a> -->
 
-</div>
 </div>
 <div class="row">
 
