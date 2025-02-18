@@ -10,7 +10,7 @@ Our lab welcomes applicants from **ALL** backgrounds!
 We are always in the market for motivated and talented people. Even if we do not have an open position currently advertised, we are still interested in engaging with you in a conversation about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across a wide range of computational and experimental techniques. If interested please send your CV/Resume to [Dr. Mohamed Omar](/contact).
 
 Currently we have **open positions** for people with the following skills:
-* **[Postdoctoral Scientist](https://careers.cshs.org/job/california/postdoctoral-scientist-omar-lab-computational-biomedicine/252/72984481712)**: The postdoctoral scientist will engage in experimental research projects focusing on prostate cancer tumor microenvironment and also manage daily wet lab operations.
+* **[Postdoctoral Scientist](https://careers.cshs.org/job/california/postdoctoral-scientist-omar-lab-computational-biomedicine/252/72984481712)**: We are seeking a postdoctoral scientist to work on a very exciting project leveraging spatially-resolved multiomics to investigate spatial and molecular interactions in the tumor microenvironment of prostate cancer as well as distant metastasis sites. Candidates with expertise in cancer molecular biology are highly encouraged to apply.
 <br/>
 
 ## Graduate Students
