@@ -5,7 +5,7 @@ group: join
 ---
 
 # Join the Omar Lab
-Our lab welcomes applicants from *ALL* backgrounds!
+Our lab welcomes applicants from **ALL** backgrounds!
 
 We are always in the market for motivated and talented people. Even if we do not have an open position currently advertised, we are still interested in engaging with you in a conversation about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across a wide range of computational and experimental techniques. If interested please send your CV/Resume to [Dr. Mohamed Omar](/contact).
 
