@@ -22,7 +22,7 @@ We focus on developing robust artificial intelligence (AI)-powered multimodal ri
 <div class="col-md-7 order-md-1">
 
 We are interested in uncovering pathomic signatures from routine H&E-stained whole slide images (WSIs) to inform patients' prognostication and the prediction of molecular and clinical phenotypes (see [Omar et al. Ann Rev of Cancer Bio. 2024](https://www.annualreviews.org/content/journals/10.1146/annurev-cancerbio-062822-010523)). 
-Our work in this domain leverages deep learning algorithms to automate WSIs preprocessing and feature extraction to identify morphometric features associated with certain phenotypes. For instance, we recently developed a robust model for inferring the status of TMPRSS2:ERG fusion (a key molecular alteration in prostate cancer) from the tissue morphology depicted in routine H&E-stained images of radical prostatecomy specimens (see [Omar et al. Mol Cancer Res 2024](https://aacrjournals.org/mcr/article/22/4/347/741845/Semi-Supervised-Attention-Based-Deep-Learning-for)).
+Our work in this domain leverages deep learning algorithms to automate WSIs preprocessing and feature extraction to identify morphometric features associated with certain phenotypes. For instance, we recently developed a robust model for inferring the status of TMPRSS2:ERG fusion (a key molecular alteration in prostate cancer) from the tissue morphology depicted in routine H&E-stained images of radical prostatectomy specimens (see [Omar et al. Mol Cancer Res 2024](https://aacrjournals.org/mcr/article/22/4/347/741845/Semi-Supervised-Attention-Based-Deep-Learning-for)).
 
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
