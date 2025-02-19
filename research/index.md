@@ -7,7 +7,7 @@ group: research
 <div class="row">
 
 # Our research
-We focus on developing robust artificial intelligence (AI)-powered multimodal risk-stratification tools to forecast the risk of disease progression in cancer patients. These tools incorporate the composition of the tumor microenvironment (TME) in their training to improve their robustness, accuracy, and generalizability to different patient cohorts.We work with different data modalities, including genomics, histopathology, and radiology images to build robust AI models for risk assessment in patients newly diagnosed with cancer. A key component of our research is using the composition of the tumor microenvironment to extract high-quality biological features that serve as supervisors for the training process, guarding against overfitting.
+We focus on developing robust artificial intelligence (AI)-powered multimodal risk-stratification tools to forecast the risk of disease progression in cancer patients. These tools incorporate the composition of the tumor microenvironment (TME) in their training to improve their robustness, accuracy, and generalizability to different patient cohorts. We work with different data modalities, including transcriptomics, histopathology, and radiology images to build robust AI models for risk assessment in patients newly diagnosed with cancer. A key component of our research is using the composition of the tumor microenvironment to extract high-quality biological features that serve as supervisors for the training process, guarding against overfitting.
 
 #### Our work focuses mainly on prostate cancer; however, it is important to note that our approaches can be applied to other cancer types as well  
 <br>
