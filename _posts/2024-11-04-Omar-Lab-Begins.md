@@ -10,5 +10,5 @@ Check our [join page](/join) for open positions and opportunities to join our re
 
  <img src="/static/img/news/Cedars1.jpg" alt="CedarsSinai" class="img-fluid">
 
- <img src="/static/img/news/Cedars2.jpg" alt="CedarsSinai2" class="img-fluid">
+ <img src="/static/img/news/PDC.jpg" alt="CedarsSinai2" class="img-fluid">
 
