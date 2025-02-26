@@ -7,10 +7,11 @@ altimage: #/static/img/members/asthana_pb.jpg #365 x 365 pixels, 72 dpi
 position: Research Data Scientist
 priority: 2
 #subsequent:  update once you become an alumnus
-email: Priyanka.Vasanthakumari (at) cshs.org #Preferred public email address
+email: Priyanka.Vasanthakumari (at) cshs.org
+email: <a href="mailto:Priyanka.Vasanthakumari@cshs.org">Priyanka.Vasanthakumari@cshs.org</a><br>
 scholar:  #Google Scholar User ID
 website:
-UCSF:  #UCSF Profile ID - Employees only
+Cedars_Sinai:  #UCSF Profile ID - Employees only
 twitter: #Pooja_Seh
 linkedin: #pooja-asthana-0602786b
 github: priyanka9991

@@ -7,10 +7,10 @@ altimage: #/static/img/members/asthana_pb.jpg #365 x 365 pixels, 72 dpi
 position: Research Associate Data Scientist
 priority: 3
 #subsequent:  update once you become an alumnus
-email: Rishabh.Sharma (at) cshs.org #Preferred public email address
+email: <a href="mailto:Rishabh.Sharma@cshs.org">Rishabh.Sharma@cshs.org</a><br>
 scholar:  #Google Scholar User ID
 website:
-UCSF:  #UCSF Profile ID - Employees only
+Cedars_Sinai:  #UCSF Profile ID - Employees only
 twitter: #Pooja_Seh
 linkedin: rishabhsharm
 github: shar032
