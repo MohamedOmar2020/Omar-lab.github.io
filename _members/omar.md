@@ -7,7 +7,7 @@ image: /static/img/members/omar.jpg
 position: Principal Investigator
 priority: 1
 #current:
-email: Mohamed.Omar (at) cshs.org
+email: <a href="mailto:Mohamed.Omar@cshs.org">Mohamed.Omar@cshs.org</a><br>
 scholar: iHJ6TzcAAAAJ
 website:
 Cedars_Sinai: Mohamed.Omar
