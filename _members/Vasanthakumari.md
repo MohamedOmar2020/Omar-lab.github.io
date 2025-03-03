@@ -2,8 +2,8 @@
 name: Priyanka Vasanthakumari, Ph.D.
 startdate: [2025-03-03]
 enddate: []
-image: #/static/img/members/asthana.jpg #365 x 365 pixels, 72 dpi
-altimage: #/static/img/members/asthana_pb.jpg #365 x 365 pixels, 72 dpi
+image: /static/img/members/vasanthakumari.jpg 
+altimage: #/static/img/members/asthana_pb.jpg 
 position: Research Data Scientist
 priority: 2
 #subsequent:  update once you become an alumnus
