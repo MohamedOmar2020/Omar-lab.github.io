@@ -13,7 +13,7 @@ scholar:  #Google Scholar User ID
 website:
 Cedars_Sinai:  #UCSF Profile ID - Employees only
 twitter: #Pooja_Seh
-linkedin: #pooja-asthana-0602786b
+linkedin: priyanka-vasanthakumari-phd-68492789
 github: priyanka9991
 orcid: #0000-0002-3417-9198
 description: "Priyanka received her Ph.D. in Biomedical Engineering from Texas A&M University in 2022. Her thesis focused on deep learning-based detection of oral and skin cancer using multi-spectral
