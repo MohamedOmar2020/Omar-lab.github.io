@@ -2,8 +2,8 @@
 name: Rishabh Sharma, MS.
 startdate: [2025-02-17]
 enddate: []
-image: #/static/img/members/asthana.jpg #365 x 365 pixels, 72 dpi
-altimage: #/static/img/members/asthana_pb.jpg #365 x 365 pixels, 72 dpi
+image: /static/img/members/sharma.jpg 
+altimage: #/static/img/members/asthana_pb.jpg
 position: Research Associate Data Scientist
 priority: 3
 #subsequent:  update once you become an alumnus
